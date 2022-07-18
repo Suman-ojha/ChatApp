@@ -1,0 +1,9 @@
+1. Create NPM project
+2. Create Index,Css,JS files
+3. Install depencies ,express,nodemon
+4. Create a express server
+5. do front-end part
+6. Install scoket.io, setup scoket.io  in server.js and client.js
+7. client send message logic in client.js
+8. receive message on server and broadcast to all clients
+9. receive message on clients and display it..
